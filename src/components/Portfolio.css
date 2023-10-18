@@ -1,0 +1,44 @@
+.portfolio {
+  font-family: Arial, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  text-align: left;
+  font-size: 1.2em;
+  color: #555;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+ul {
+  margin-left: 3%;
+  list-style: none;
+  padding: 0;
+  list-style-type: disc; /* 원형 점 */
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.profile-image {
+  width: 100px;
+}
+
+.timeline-image {
+  width: 100%;
+}
